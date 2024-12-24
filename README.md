@@ -1,16 +1,26 @@
-## Hi there 👋
+# Full Stack Developer
 
-<!--
-**sebastianwork200410/sebastianwork200410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h3>👋 Hi there! I'm a Full Stack Developer passionate about creating modern web applications</h3>
+</div>
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```typescript
+const developer = {
+    frontend: ['React', 'Next.js', 'TypeScript', 'Angular', 'Vue.js'],
+    css: ['Tailwind CSS', 'Bootstrap', 'Material UI', 'Ant Design', 'Styled Components'],
+    backend: ['Node.js', 'Nest.js', 'Laravel', 'Django', 'Ruby on Rails', 'GraphQL'],
+    architecture: ['Microservices', 'REST APIs', 'Server Side Rendering'],
+    tools: ['Git', 'Docker', 'CI/CD', 'AWS'],
+    currentlyLearning: ['Always exploring new technologies! 🚀']
+}
+```
+
+## 🚀 What I Do
+
+- Develop scalable web applications using React and Next.js
+- Design and implement robust backend systems with Nest.js and Laravel
+- Create efficient GraphQL APIs for seamless data handling
+- Write clean, maintainable, and well-tested code
+- Implement modern UI/UX best practices
